@@ -1,6 +1,6 @@
 # Inleiding
 
-In deze Github repo vinden jullie de stappen om een webapplicatie op te zetten, waar medewerkers zich kunnen registreren. Daarnaast zullen deze zich tijdens het evenement met de aanmeldingsmodule eenvoudig kunnen aanmelden op basis van de verkregen gegevens uit de database.
+In deze Github repo vinden jullie een overzicht van onze repo's om een webapplicatie op te zetten, waar medewerkers zich kunnen registreren. Daarnaast zullen deze zich tijdens het evenement met de aanmeldingsmodule eenvoudig kunnen aanmelden op basis van de verkregen gegevens uit de database.
 
 ---
 
