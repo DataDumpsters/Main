@@ -18,6 +18,8 @@ Om onze webapplicatie op te zetten, hebben we een degelijke hostingstructuur nod
 
 Wanneer je de README in deze repo volgt, zal je (na het ingeven van de gewenste variabelen) automatisch deze volledige omgeving kunnen opzetten. De AWS-omgeving heeft een publiek (internetkoppeling) en een privaat gedeelte (services voor de frontend en backend, database...) en is voorzien van aparte subnets, security groups..., zodat belangrijke data beschermd kan blijven. Meer info over deze repo vind je in de README van deze repo zelf.
 
+https://github.com/DataDumpsters/AWS
+
 ### Gladiolen-frontend repository
 
 In deze repo zal je vanzelfsprekend de bestanden vinden voor de frontend. Deze omvat:
@@ -27,6 +29,8 @@ In deze repo zal je vanzelfsprekend de bestanden vinden voor de frontend. Deze o
 - Een Dockerfile om de applicatie op te zetten
 
 In de README van deze repo vind je meer info hierover.
+
+https://github.com/DataDumpsters/gladiolen-frontend
 
 ### Gladiolen-backend repository
 
@@ -38,4 +42,6 @@ In deze repo vind je uiteraard de backend van onze webapplicatie. Hier vind je i
 - Een Dockerfile en een docker-compose file om de volledige image te kunnen bouwen.
 
 Meer info over deze repo kan je weer terugvinden in de README van de repo zelf.
+
+https://github.com/DataDumpsters/gladiolen-backend
 
