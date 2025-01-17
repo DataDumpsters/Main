@@ -4,6 +4,12 @@ In deze Github repo vinden jullie een overzicht van onze repo's om een webapplic
 
 Dit project werd ontworpen door studenten Thomas More voor het project 4.0 in het laatste jaar van de opleiding Elektronica-ICT. Onder de groepsnaam 'Data Dumpsters' creërden Nicolas van Dyck, Matthias van Rooy, Lorenzo Elias, Ward Boeckx en Niek Smets deze gebruiksvriendelijke applicatie.
 
+Hieronder vinden jullie de benodigde onderdelen en voorgaande stappen om het project tot een goed einde te kunnen brengen. De belangrijkste onderdelen van deze repository om de applicatie op te zetten, zijn de volgende:
+
+- AWS repository
+- Gladiolen-frontend repository
+- Gladiolen-backend repository
+
 ---
 
 ## Vooronderzoek
