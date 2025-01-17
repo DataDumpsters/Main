@@ -2,6 +2,8 @@
 
 In deze Github repo vinden jullie een overzicht van onze repo's om een webapplicatie op te zetten, waar medewerkers zich kunnen registreren. Daarnaast zullen deze zich tijdens het evenement met de aanmeldingsmodule eenvoudig kunnen aanmelden op basis van de verkregen gegevens uit de database.
 
+Dit project werd ontworpen door studenten Thomas More voor het project 4.0 in het laatste jaar van de opleiding Elektronica-ICT. Onder de groepsnaam 'Data Dumpsters' creërden Nicolas van Dyck, Matthias van Rooy, Lorenzo Elias, Ward Boeckx en Niek Smets deze gebruiksvriendelijke applicatie.
+
 ---
 
 ## Vooronderzoek
